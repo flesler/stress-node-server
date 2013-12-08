@@ -5,6 +5,8 @@ stress-node-server
 
 Node server for stress testing other servers.
 
+Uses the [stress-node](https://github.com/flesler/stress-node) library to run the stress tests.
+
 ## Installation
 
 First download the code and install dependencies
