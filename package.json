@@ -1,0 +1,25 @@
+{
+  "name": "stress-node-server",
+  "author": "Ariel Flesler <aflesler@gmail.com>",
+  "version": "1.0.0",
+  "description": "Node server for stress testing other servers",
+  "keywords": [
+    "stress",
+    "test",
+    "nodejs",
+    "node",
+    "development",
+    "debugging",
+    "server"
+  ],
+  "license": "MIT",
+  "repository": "git://github.com/flesler/stress-node-server",
+  "main": "./app.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "stress-node": "*",
+    "optimist": "0.6.x"
+  }
+}
