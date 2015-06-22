@@ -21,7 +21,7 @@ Now you are ready to run stress tests. Check the Help section for details.
 
 Here's the help output:
 
-	Usage: node app http://google.com
+	Usage: node app "http://google.com"
 
 	Options:
 		-h, --help        show this help
